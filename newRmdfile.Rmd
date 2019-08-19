@@ -9,5 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## New Rmd file
 
+Lines that I want to
+commit FIRST.
 
 
